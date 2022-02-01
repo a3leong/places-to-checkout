@@ -7,6 +7,7 @@
 - [Shabu Shabu house](https://goo.gl/maps/PTVA6DNJLDBLXjCt9): A form of Japanese hotpot on 4646 Convoy St, San Diego, CA 92111
 - [Convoy Tofu House](https://convoytofuhouse.com/): Korean food. Most things on Convoy are East Asian food and pretty good
 - [Libre Taco Shop](https://www.luchalibretacoshop.com/): Really popular burrito place
+- [Vallartas](https://www.vallartaexpress.com/): Burrito where you can do drive through, popular with college students
 - [Dirty Birds](https://www.dirtybirdsbarandgrill.com/about/pacific-beach): Chicken wings but the chicken itself is actually good
 - [Regents Pizzeria](https://www.regentspizza.com/): Pizza, has a chicago style deep dish too but it's not entirely authentic
 - [Bobboi Gelato](https://bobboi.com/): Gelato, area is really nice to walk around in too
@@ -24,4 +25,8 @@
 - 
 
 
-### Experiences
+### Places
+- UCSD
+  - Geisel Library: The outside is nice to look but the inside is just alot of students studying
+  - [Stuart Art Collection](https://stuartcollection.ucsd.edu/artist/index.html): A mix of architecture things to see all around UCSD campus
+- [UTC Mall](https://www.westfield.com/utc): A mall
