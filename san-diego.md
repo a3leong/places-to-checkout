@@ -17,8 +17,9 @@
 - [Little Italy](https://www.littleitalysd.com/events/mercato) (Saturdays)
 - [Hillcrest](https://www.facebook.com/hillcrestfarmersmarket/) (Sundays)
 
-### Bars/Pubs
-- 
+### Beer
+San Diego has a big craft beer scene apparently so there's many other places beyond whatever is listing
+- [Ballast Point)[https://ballastpoint.com/]
 
 ### Hiking
 - [Potato chip rock](https://www.alltrails.com/trail/us/california/potato-chip-rock-via-mt-woodson-trail): Not an easy trail, but the photo op at the end is really popular because you look like you're standing on a really thin rock.
