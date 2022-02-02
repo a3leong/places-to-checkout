@@ -35,3 +35,4 @@ San Diego has a big craft beer scene apparently so there's many other places bey
 - [UTC Mall](https://www.westfield.com/utc): A mall
 - [San Diego Zoo](https://zoo.sandiegozoo.org/): A zoo located in/nearby Balboa Park which is also a nice place to check out
 - [Balboa Park](https://www.balboapark.org/): A park area with museum exhibits and other things to check out
+- [SD County Fair](https://sdfair.com/home/): One month out of the year there is a county fair where there's rides/food/music. They also do piglet races
